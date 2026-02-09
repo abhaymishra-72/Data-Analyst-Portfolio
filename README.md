@@ -30,5 +30,5 @@ I enjoy working with data, finding insights and creating dashboards.
 
 ## 📫 Contact
 - Email: abhaypbh77@gmail.com
-- https://www.linkedin.com/in/abhay-mishra-5106841a1
+- Linkdin: https://www.linkedin.com/in/abhay-mishra-5106841a1
 - GitHub: https://github.com/abhaymishra-72
